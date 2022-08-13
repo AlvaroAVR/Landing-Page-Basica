@@ -4,7 +4,7 @@ Personal landing template.
 
 Diseñado para la simplicidad.
 
-![Image Text](https://github.com/AlvaroAVR/Landing-Page-Basica/blob/main/img/Landing-Page-Basica.png)
+![Demo](https://github.com/AlvaroAVR/Landing-Page-Basica/blob/main/img/Landing-Page-Basica.png)
 
 ## Stack
 
