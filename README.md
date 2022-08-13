@@ -4,7 +4,7 @@ Personal landing template.
 
 Diseñado para la simplicidad.
 
-![Demo](https://systempeaker.com/wp-content/uploads/2021/10/windows_hello_hero_2-3173069.jpg)
+![Image Text](https://github.com/AlvaroAVR/Landing-Page-Basica/blob/main/img/Landing-Page-Basica.png)
 
 ## Stack
 
